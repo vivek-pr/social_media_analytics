@@ -16,7 +16,7 @@ virtualenv venv
 
 3. **Clone the project repository:** Clone the Django project repository to your local machine. If it's hosted on GitHub, you can use the following command:
 ```shell
-git clone <repository_url>
+git clone https://github.com/vivek-pr/social_media_analytics.git
 ```
 
 4. **Navigate to the project directory:** Use the terminal to navigate to the directory where you cloned the project.
